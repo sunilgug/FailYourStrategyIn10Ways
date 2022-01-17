@@ -5,5 +5,5 @@ Together this article covers ten commonly encountered ways in which we make mist
  
 The blog and the colab notebook is placed at https://blog.quantinsti.com/ways-trading-strategy-fail/ 
 
-This folder just the placeholder of the supporting files if the blog and colab notebook.
+This folder is just the placeholder of the supporting files of the blog and colab notebook.
 
